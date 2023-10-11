@@ -1,0 +1,3 @@
+pygoogletranslation
+language_check
+streamlit
